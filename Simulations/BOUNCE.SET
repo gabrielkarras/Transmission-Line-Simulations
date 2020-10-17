@@ -1,0 +1,9 @@
+bounce.bnc                                                                      
+ASPECT      0.1000000E+01
+GENERATOR1    2     10.00     25.00
+GENERATOR2  300.0000    0.0000  0.1000000E-08    0
+GENERATOR3      0.00      0.00      0.00  0.0000000E+00  0.1111111E-10
+TIMESTEP   0.1111111E-10  100
+METERS1  1
+METERS2  1
+METERS3  0.6666666E-04
